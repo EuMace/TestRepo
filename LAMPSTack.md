@@ -3,6 +3,7 @@ WEB STACK IMPLEMENTATION (LAMP STACK) IN AWS
 2.	Login as Root User
 3.	Launched an EC2 instance
 
+![image](https://user-images.githubusercontent.com/120044190/217109416-4fb1c654-06c7-473a-a53d-7813c77bdb62.png)
 
  
 
